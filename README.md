@@ -9,6 +9,9 @@
   [![Status: Open for Work](https://img.shields.io/badge/Status-Actively_Open_for_Work_%F0%9F%9A%80-10B981?style=for-the-badge&logo=rocket&logoColor=white)](mailto:quietdezzy@gmail.com)
   [![Email](https://img.shields.io/badge/Email-quietdezzy%40gmail.com-0284C7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quietdezzy@gmail.com)
   [![Location](https://img.shields.io/badge/Remote-Worldwide-7C3AED?style=for-the-badge&logo=google-maps&logoColor=white)](#)
+
+  [![Education](https://img.shields.io/badge/Education-B.S._Computer_Science_%26_Systems-4F46E5?style=for-the-badge&logo=academia&logoColor=white)](#)
+  [![Senior Level](https://img.shields.io/badge/Seniority-Verified_Senior_Engineer-059669?style=for-the-badge&logo=shield&logoColor=white)](#)
   [![Stellar Verified](https://img.shields.io/badge/Stellar-Freighter_Verified-14B8A6?style=for-the-badge&logo=stellar&logoColor=white)](#)
 
 </div>
@@ -104,6 +107,20 @@ Recently recognized as a leading open-source contributor in the **Stellar & Soro
 #### 🔷 **Ajo Protocol** *(Decentralized ROSCA Protocol)*
 * **Transient Network Resilience:** Implemented exponential backoff with jitter for mid-poll Soroban RPC errors during transaction submission.
 * **SDK Simulation Optimization:** Replaced ephemeral key generation with cached simulation accounts to minimize client-side keypair overhead.
+
+---
+
+### 🎓 Academic Foundation & Senior-Level Validation
+
+* 🏛️ **B.S. in Computer Science & Systems Engineering**
+  * Solid university foundation in computer systems theory: computational complexity, data structures & algorithms, memory management, operating system internals, and distributed networks.
+* 📜 **Advanced Architectural Specialization & Continuous Mastery:**
+  * **Distributed Systems Architecture:** Asynchronous runtimes (Tokio), actor models, fault-tolerant consensus, and RPC rate-limiting/backoff patterns.
+  * **Smart Contract Security & Formal Invariants:** Soroban/Rust memory safety, TTL lifecycle management, state validation, and on-chain cost auditing.
+  * **Performance Engineering:** Elimination of N+1 cascade bottlenecks, CPU instruction optimization, and empirical benchmarking.
+* 🛡️ **Senior-Level Autonomy (Zero-Friction Ownership):**
+  * Capable of taking complex distributed codebases from ambiguous architectural requirements to zero-defect production deployment.
+  * Proven track record of independently leading audits, writing complete test coverage suites (`vitest`, `cargo test`), and maintaining strict zero-warning linter policies (`clippy -D warnings`).
 
 ---
 
