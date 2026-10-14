@@ -146,7 +146,7 @@ Whether descending into low-level memory management in Rust/C++, designing numer
 ### 🎓 Academic Foundation & Senior-Level Validation
 
 * 🏛️ **B.S. in Computer Science & Applied Mathematics**
-  * Deep academic foundation in core computer science theory: algorithm design & computational complexity (\(\mathcal{O}(n)\)), abstract algebra, numerical linear algebra, operating systems internals, and distributed networks.
+  * Deep academic foundation in core computer science theory: algorithm design & computational complexity (Big-O asymptotic analysis), abstract algebra, numerical linear algebra, operating systems internals, and distributed networks.
 * 📜 **Universal Problem Solver & High Learning Velocity:**
   * **Zero-Ramp-Up Overhead:** Demonstrates exceptional ability to enter completely new technological stacks, languages, or domain-specific architectures and produce senior-quality code within hours.
   * **First-Principles Thinking:** Solves problems by understanding hardware, memory boundaries, and mathematical constraints rather than relying on surface-level abstractions.
